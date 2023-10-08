@@ -11,7 +11,7 @@ public class ExampleResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello Atarian from RESTEasy Reactive";
+        return "Hello Atarians from RESTEasy Reactive";
     }
 
 
